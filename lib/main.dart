@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 //Peniones
 
+/*
 //Hello World
 void main() => runApp(
       MaterialApp(
@@ -10,8 +11,8 @@ void main() => runApp(
       ),
     );
 
+*/
 
-/*
 //Scaffold
 void main() {
   runApp(
@@ -32,4 +33,3 @@ void main() {
     ),
   );
 }
-*/
